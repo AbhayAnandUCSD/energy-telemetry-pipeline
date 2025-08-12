@@ -1,0 +1,11 @@
+device_id,site_id,device_type,capacity_kwh
+D01001,S01,battery,200
+D01002,S01,battery,250
+D01003,S02,battery,300
+D01004,S02,battery,150
+D01005,S03,battery,220
+D01006,S03,battery,180
+D01007,S04,battery,260
+D01008,S04,battery,200
+D01009,S05,battery,240
+D01010,S05,battery,210
